@@ -4,7 +4,7 @@ import { Highlight } from '@components/HighLight';
 import { Input } from '@components/Input';
 import { Container, Content, Icon } from './styles';
 
-export default function NewGroup() {
+export function NewGroup() {
 
   return (
     <Container>
